@@ -24,12 +24,19 @@ This project showcases essential frontend concepts like component-based architec
 🧠 Tech Stack
 
 Category	                  Technology
+
 Framework	               React.js (with Vite)
+
 Styling             	      TailwindCSS
+
 State Management	         React Hooks / Context API
+
 Build Tool	               Vite
+
 Package Manager	         npm
+
 Version Control            Git & GitHub
+
 Deployment	               Vercel 
 
 ⚙️ Installation & Setup
