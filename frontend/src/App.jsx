@@ -10,7 +10,7 @@ const initialProducts = [
   { id: 4, name: 'Smartphone', category: 'Electronics', price: 800 },
   { id: 5, name: 'Jeans', category: 'Clothing', price: 50 },
   { id: 6, name: 'Sapiens', category: 'Books', price: 20 },
-  { id: 7, name: 'Headphones' }
+ 
 ];
 
 function App() {
