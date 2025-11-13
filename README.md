@@ -3,7 +3,7 @@
 A modern e-commerce product store application built with cutting-edge web technologies to provide a seamless shopping experience.
 
 🌐 Live Demo
-Check out the live application: Product Store
+Check out the live application: https://learnline-edustation.netlify.app/
 
 
 ## 🚀 Built With
@@ -80,14 +80,10 @@ product-store/
 ├── src/
 │   ├── assets/         # Images, fonts, etc.
 │   ├── components/     # Reusable React components
-│   ├── pages/          # Page components
-│   ├── styles/         # Global styles and Tailwind config
-│   ├── utils/          # Utility functions
 │   ├── App.jsx         # Main App component
 │   └── main.jsx        # Application entry point
 ├── index.html          # HTML template
 ├── package.json        # Project dependencies
-├── tailwind.config.js  # Tailwind configuration
 ├── vite.config.js      # Vite configuration
 └── README.md
 ```
