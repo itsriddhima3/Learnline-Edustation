@@ -25,19 +25,19 @@ This project showcases essential frontend concepts like component-based architec
 
 Category	                  Technology
 
-Framework	               React.js (with Vite)
+Framework:               React.js (with Vite)
 
-Styling             	      TailwindCSS
+Styling:            	      TailwindCSS
 
-State Management	         React Hooks / Context API
+State Management:         React Hooks / Context API
 
-Build Tool	               Vite
+Build Tool:	               Vite
 
-Package Manager	         npm
+Package Manager:	         npm
 
-Version Control            Git & GitHub
+Version Control:           Git & GitHub
 
-Deployment	               Vercel 
+Deployment:               Vercel 
 
 ⚙️ Installation & Setup
 
@@ -64,11 +64,11 @@ The app will run at: http://localhost:5173
 
 Command	            Description
 
-npm run dev 	      Start development server
+npm run dev :	      Start development server
 
-npm run build 	      Build for production
+npm run build :      Build for production
 
-npm run preview	   Preview production build
+npm run preview:   Preview production build
 
 🚀 Deployment
 
