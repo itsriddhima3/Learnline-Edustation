@@ -23,32 +23,32 @@ This project showcases essential frontend concepts like component-based architec
 
 🧠 Tech Stack
 
-Category	                 Technology
-Framework	                 React.js (with Vite)
-Styling             	     TailwindCSS
+Category	                  Technology
+Framework	               React.js (with Vite)
+Styling             	      TailwindCSS
 State Management	         React Hooks / Context API
 Build Tool	               Vite
-Package Manager	           npm
+Package Manager	         npm
 Version Control            Git & GitHub
-Deployment	               Vercel / Netlify
+Deployment	               Vercel 
 
 ⚙️ Installation & Setup
 
 1. Clone this repository
    
-git clone https://github.com/itsriddhima3/Learnline-Edustation.git
+   git clone https://github.com/itsriddhima3/Learnline-Edustation.git
 
 2. Navigate into the project folder
    
-cd frontend
+   cd frontend
 
 3. Install dependencies
 
-npm install
+   npm install
 
 4. Start the development server
    
-npm run dev
+   npm run dev
 
 The app will run at: http://localhost:5173
 
