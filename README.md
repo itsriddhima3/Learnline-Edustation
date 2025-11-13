@@ -9,11 +9,17 @@ This project showcases essential frontend concepts like component-based architec
 ✨ Features
 
 🛒 Add / Remove from Cart – Dynamically manage products in the shopping cart.
+
 🔍 Product Filtering – Filter products by category or preferences.
+
 💰 Cart Summary – Instantly view total price and item count.
+
 ⚡ Vite-Powered – Enjoy fast builds and instant hot reloads.
+
 📱 Responsive Design – Works smoothly on all screen sizes.
+
 🧩 Clean Code Structure – Organized and reusable React components.
+
 
 🧠 Tech Stack
 
@@ -32,7 +38,7 @@ Deployment	               Vercel / Netlify
 git clone https://github.com/itsriddhima3/Learnline-Edustation.git
 
 2. Navigate into the project folder
-cd Learnline-Edustation
+cd frontend
 
 3. Install dependencies
 npm install
@@ -60,10 +66,10 @@ Learnline-Edustation/
 └── README.md                      # Project documentation
 
 🧰 Available Scripts
-Command	Description
-npm run dev	Start development server
-npm run build	Build for production
-npm run preview	Preview production build
+Command	           Description
+npm run dev 	     Start development server
+npm run build 	   Build for production
+npm run preview	   Preview production build
 
 🚀 Deployment
 
