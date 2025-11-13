@@ -35,15 +35,19 @@ Deployment	               Vercel / Netlify
 ⚙️ Installation & Setup
 
 1. Clone this repository
+   
 git clone https://github.com/itsriddhima3/Learnline-Edustation.git
 
 2. Navigate into the project folder
+   
 cd frontend
 
 3. Install dependencies
+
 npm install
 
 4. Start the development server
+   
 npm run dev
 
 The app will run at: http://localhost:5173
