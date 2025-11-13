@@ -52,27 +52,15 @@ Deployment	               Vercel
 
 The app will run at: http://localhost:5173
 
-🧩 Folder Structure
-Learnline-Edustation/
-│
-├── src/
-│   ├── components/
-│   │   ├── CategoryFilter.jsx     # Handles product filtering by category
-│   │   ├── ProductList.jsx        # Displays product list dynamically
-│   │   └── ShoppingCart.jsx       # Manages cart state, total, and removal
-│   │
-│   ├── App.jsx                    # Main application component
-│   ├── main.jsx                   # Entry point (Vite + React setup)
-│   └── index.css                  # Global styles
-│
-├── package.json                   # Dependencies and scripts
-├── vite.config.js                 # Vite configuration
-└── README.md                      # Project documentation
 
 🧰 Available Scripts
-Command	           Description
-npm run dev 	     Start development server
-npm run build 	   Build for production
+
+Command	            Description
+
+npm run dev 	      Start development server
+
+npm run build 	      Build for production
+
 npm run preview	   Preview production build
 
 🚀 Deployment
